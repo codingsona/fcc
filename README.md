@@ -3,3 +3,4 @@ Below fun projects are completed in this repository. Each project has a README, 
 
 ## Arithmetic Calculator
 ## Budget Calculation App
+## Demographic Analyzer
