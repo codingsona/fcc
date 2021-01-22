@@ -1,5 +1,5 @@
 # Fun Projects
-Below fun projects are completed in this repository. These were my project assignments at FreeCodeCamp. Each project has its own README, source code, unit test and installation steps.
+Below fun projects are completed in this repository. Each project has its own README, source code, unit test and installation steps. These were my project assignments at FreeCodeCamp. 
 
 ## Data Analysis\Medical Data Visualizer
 ## Data Analysis\Page View Time Series Visualizer
